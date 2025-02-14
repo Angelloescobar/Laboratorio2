@@ -1,0 +1,14 @@
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\bin\Debug\net8.0\Enunciado 2.exe
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\bin\Debug\net8.0\Enunciado 2.deps.json
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\bin\Debug\net8.0\Enunciado 2.runtimeconfig.json
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\bin\Debug\net8.0\Enunciado 2.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\bin\Debug\net8.0\Enunciado 2.pdb
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.AssemblyInfoInputs.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.AssemblyInfo.cs
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.csproj.CoreCompileInputs.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\refint\Enunciado 2.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.pdb
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\Enunciado 2.genruntimeconfig.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 2\Enunciado 2\obj\Debug\net8.0\ref\Enunciado 2.dll

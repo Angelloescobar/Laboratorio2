@@ -1,0 +1,14 @@
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\bin\Debug\net8.0\ejercicio 3 progra.exe
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\bin\Debug\net8.0\ejercicio 3 progra.deps.json
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\bin\Debug\net8.0\ejercicio 3 progra.runtimeconfig.json
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\bin\Debug\net8.0\ejercicio 3 progra.dll
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\bin\Debug\net8.0\ejercicio 3 progra.pdb
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.AssemblyInfoInputs.cache
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.AssemblyInfo.cs
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.csproj.CoreCompileInputs.cache
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.dll
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\refint\ejercicio 3 progra.dll
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.pdb
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ejercicio 3 progra.genruntimeconfig.cache
+C:\Laboratorio 2 Eejercicios\ejercicio 3 progra\ejercicio 3 progra\obj\Debug\net8.0\ref\ejercicio 3 progra.dll

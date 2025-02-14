@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Progra 1 B clase 2\\Laboratio 2 Programa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20022328-5834-4539-9E71-F522F608942D}|Laboratio 2 Programa\\Laboratio 2 Programa.csproj|c:\\progra 1 b clase 2\\laboratio 2 programa\\laboratio 2 programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20022328-5834-4539-9E71-F522F608942D}|Laboratio 2 Programa\\Laboratio 2 Programa.csproj|solutionrelative:laboratio 2 programa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Progra 1 B clase 2\\Laboratio 2 Programa\\Laboratio 2 Programa\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratio 2 Programa\\Program.cs",
+              "ToolTip": "C:\\Progra 1 B clase 2\\Laboratio 2 Programa\\Laboratio 2 Programa\\Program.cs",
+              "RelativeToolTip": "Laboratio 2 Programa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:40:37.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

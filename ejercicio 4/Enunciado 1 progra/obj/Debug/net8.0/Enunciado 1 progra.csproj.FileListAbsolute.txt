@@ -1,0 +1,14 @@
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\bin\Debug\net8.0\Enunciado 1 progra.exe
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\bin\Debug\net8.0\Enunciado 1 progra.deps.json
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\bin\Debug\net8.0\Enunciado 1 progra.runtimeconfig.json
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\bin\Debug\net8.0\Enunciado 1 progra.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\bin\Debug\net8.0\Enunciado 1 progra.pdb
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.AssemblyInfoInputs.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.AssemblyInfo.cs
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.csproj.CoreCompileInputs.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\refint\Enunciado 1 progra.dll
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.pdb
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\Enunciado 1 progra.genruntimeconfig.cache
+C:\Laboratorio 2 Eejercicios\Enunciado 1 progra\Enunciado 1 progra\obj\Debug\net8.0\ref\Enunciado 1 progra.dll

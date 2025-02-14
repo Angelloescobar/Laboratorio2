@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Laboratorio 2 Eejercicios\\Enunciado 1 progra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15596A43-BF76-4FBA-B07B-F55679729F5B}|Enunciado 1 progra\\Enunciado 1 progra.csproj|c:\\laboratorio 2 eejercicios\\enunciado 1 progra\\enunciado 1 progra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15596A43-BF76-4FBA-B07B-F55679729F5B}|Enunciado 1 progra\\Enunciado 1 progra.csproj|solutionrelative:enunciado 1 progra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Laboratorio 2 Eejercicios\\Enunciado 1 progra\\Enunciado 1 progra\\Program.cs",
+              "RelativeDocumentMoniker": "Enunciado 1 progra\\Program.cs",
+              "ToolTip": "C:\\Laboratorio 2 Eejercicios\\Enunciado 1 progra\\Enunciado 1 progra\\Program.cs*",
+              "RelativeToolTip": "Enunciado 1 progra\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:01:06.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\bin\Debug\net8.0\lab 2 progra ejercicio 2.exe
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\bin\Debug\net8.0\lab 2 progra ejercicio 2.deps.json
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\bin\Debug\net8.0\lab 2 progra ejercicio 2.runtimeconfig.json
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\bin\Debug\net8.0\lab 2 progra ejercicio 2.dll
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\bin\Debug\net8.0\lab 2 progra ejercicio 2.pdb
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.AssemblyInfoInputs.cache
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.AssemblyInfo.cs
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.dll
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\refint\lab 2 progra ejercicio 2.dll
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.pdb
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\lab 2 progra ejercicio 2.genruntimeconfig.cache
+C:\Progra 1 B clase 2\lab 2 progra ejercicio 2\lab 2 progra ejercicio 2\obj\Debug\net8.0\ref\lab 2 progra ejercicio 2.dll
